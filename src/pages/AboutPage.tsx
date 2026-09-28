@@ -94,7 +94,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onQuote, onNavigate }) => 
         <div className="lg:col-span-6 border border-neutral-800 bg-neutral-900 p-2">
           <div className="aspect-[4/3] bg-neutral-950 overflow-hidden">
             <img
-              src="/src/assets/images/hero_stage_lifting_machinery_1790577867656.jpg"
+              src="/images/hero_stage_lifting_machinery_1790577867656.jpg"
               alt="METALHOOD Stage Winches in Venue"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover"

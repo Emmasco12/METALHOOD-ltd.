@@ -40,7 +40,7 @@ export const HomePage: React.FC<HomePageProps> = ({
       title: 'Electrical Lifting Winches',
       subtitle: 'MH Series · 150 kg to 1,000 kg',
       desc: 'Multi-line theatrical hoists engineered with precision helical grooved drums, redundant dual electromagnetic holding brakes, and calibrated limit switches.',
-      image: '/src/assets/images/winch_electrical_mh500_1790577879976.jpg',
+      image: '/images/winch_electrical_mh500_1790577879976.jpg',
       categoryKey: 'electrical-winches',
       capacityBadge: '1 500 N – 10 000 N',
     },
@@ -48,7 +48,7 @@ export const HomePage: React.FC<HomePageProps> = ({
       title: 'Manual Lifting Winches',
       subtitle: 'MHM Series · Silent Automatic Brakes',
       desc: 'High-safety manual theatrical hoists equipped with automatic pressure friction brakes. Silent, ratchet-free operation for scenery bars and acoustic panels.',
-      image: '/src/assets/images/winch_manual_theatrical_1790577892470.jpg',
+      image: '/images/winch_manual_theatrical_1790577892470.jpg',
       categoryKey: 'manual-winches',
       capacityBadge: 'Up to 5 000 N (500 kg)',
     },
@@ -56,7 +56,7 @@ export const HomePage: React.FC<HomePageProps> = ({
       title: 'Stage Automation & Controls',
       subtitle: 'Centralized Cabinets & Remote Pendants',
       desc: 'Custom-designed synchronous control systems engineered with our specialized European electronics partner with 25+ years stage automation experience.',
-      image: '/src/assets/images/stage_control_system_1790577905027.jpg',
+      image: '/images/stage_control_system_1790577905027.jpg',
       categoryKey: 'control-systems',
       capacityBadge: 'Synchronous 2–16+ Drives',
     },
@@ -64,7 +64,7 @@ export const HomePage: React.FC<HomePageProps> = ({
       title: 'Rigging & Upper Machinery',
       subtitle: 'Certified Diverts, Head Blocks & Brackets',
       desc: 'LIAA technology transfer certified pulley blocks, divert sheaves with sealed ball bearings, and Eurocode-compliant structural I-beam clamp assemblies.',
-      image: '/src/assets/images/hero_stage_lifting_machinery_1790577867656.jpg',
+      image: '/images/hero_stage_lifting_machinery_1790577867656.jpg',
       categoryKey: 'rigging-accessories',
       capacityBadge: 'EN 17206 Certified',
     },
@@ -77,7 +77,7 @@ export const HomePage: React.FC<HomePageProps> = ({
         {/* Cinematic Background Image with Measured Scrim */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/hero_stage_lifting_machinery_1790577867656.jpg"
+            src="/images/hero_stage_lifting_machinery_1790577867656.jpg"
             alt="METALHOOD Stage Lifting Machinery in Theatrical Fly Loft"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover object-center filter brightness-50 contrast-125"
@@ -187,7 +187,7 @@ export const HomePage: React.FC<HomePageProps> = ({
           <div className="lg:col-span-6">
             <div className="relative border border-neutral-800 bg-neutral-900 overflow-hidden">
               <img
-                src="/src/assets/images/cnc_manufacturing_facility_1790577916831.jpg"
+                src="/images/cnc_manufacturing_facility_1790577916831.jpg"
                 alt="METALHOOD CNC Machining and Assembly Workshop in Latvia"
                 referrerPolicy="no-referrer"
                 className="w-full aspect-[16/10] object-cover"
@@ -373,7 +373,7 @@ export const HomePage: React.FC<HomePageProps> = ({
           {/* Background image overlay */}
           <div className="absolute inset-0 z-0 opacity-25">
             <img
-              src="/src/assets/images/hero_stage_lifting_machinery_1790577867656.jpg"
+              src="/images/hero_stage_lifting_machinery_1790577867656.jpg"
               alt="Custom stage lifting engineering"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover"

@@ -71,7 +71,7 @@ export const PRODUCTS: Product[] = [
     tagline: 'High-capacity theatrical upper machinery for heavy scenery and lighting battens',
     description:
       'The MH-500 is METALHOOD’s flagship heavy-duty electric stage winch, delivering 5,000 N (500 kg) of certified lifting force. Available in 3, 4, 5, or 6 line configurations with precision helical drum grooving, redundant dual electromagnetic holding brakes, and calibrated limit switches. Manufactured in our Riga facility according to European theatrical safety norms.',
-    image: '/src/assets/images/winch_electrical_mh500_1790577879976.jpg',
+    image: '/images/winch_electrical_mh500_1790577879976.jpg',
     capacity: '500 kg',
     capacityNewtons: '5,000 N (ELL)',
     lines: '3, 4, 5, or 6 operation lines',
@@ -110,7 +110,7 @@ export const PRODUCTS: Product[] = [
     tagline: 'Versatile multi-line stage lifting winch for medium venue installations',
     description:
       'Engineered specifically for school halls, regional theatres, and cultural centres, the MH-250 series provides 2,500 N (250 kg) of dependable lifting force across 3 to 6 lines. Features a compact steel chassis, dual safety brakes, and flexible mounting options for overhead gridirons or side walls.',
-    image: '/src/assets/images/winch_electrical_mh500_1790577879976.jpg',
+    image: '/images/winch_electrical_mh500_1790577879976.jpg',
     capacity: '250 kg',
     capacityNewtons: '2,500 N (ELL)',
     lines: '3, 4, 5, or 6 operation lines',
@@ -147,7 +147,7 @@ export const PRODUCTS: Product[] = [
     tagline: 'Ultra-compact electrical hoist for space-restricted fly lofts and light loads',
     description:
       'The MH-150 provides 1,500 N (150 kg) lifting capacity with 1 to 4 wire rope lines. Its minimal footprint makes it ideal for architectural suspensions, museum exhibits, lightweight borders, and small studio theatres where space in the fly loft is strictly limited.',
-    image: '/src/assets/images/winch_electrical_mh500_1790577879976.jpg',
+    image: '/images/winch_electrical_mh500_1790577879976.jpg',
     capacity: '150 kg',
     capacityNewtons: '1,500 N (ELL)',
     lines: '1, 2, 3, or 4 operation lines',
@@ -183,7 +183,7 @@ export const PRODUCTS: Product[] = [
     tagline: 'High-tonnage stage upper machinery for major theatrical bridges & curtains',
     description:
       'Engineered for large-scale venues requiring serious lifting capacity up to 10,000 N (1,000 kg). Features reinforced steel framework, dual heavy-duty electromagnetic disc brakes, precision wire rope guidance, and synchronized speed controls for main proscenium curtains and heavy lighting bridges.',
-    image: '/src/assets/images/winch_electrical_mh500_1790577879976.jpg',
+    image: '/images/winch_electrical_mh500_1790577879976.jpg',
     capacity: '1,000 kg',
     capacityNewtons: '10,000 N (ELL)',
     lines: 'Multi-line high-tensile steel wire system',
@@ -217,7 +217,7 @@ export const PRODUCTS: Product[] = [
     tagline: 'Precision manual theatrical hoist with dual automatic pressure load brakes',
     description:
       'The MHM_W500 provides manual stage lifting for loads up to 5,000 N (500 kg) across 3 to 6 lines. Equipped with an automatic dual pressure load holding brake that prevents inadvertent descent when the crank handle is released. Engineered without ratchets for whisper-quiet backstage operation.',
-    image: '/src/assets/images/winch_manual_theatrical_1790577892470.jpg',
+    image: '/images/winch_manual_theatrical_1790577892470.jpg',
     capacity: '500 kg',
     capacityNewtons: '5,000 N (ELL)',
     lines: '3, 4, 5, or 6 operation lines',
@@ -253,7 +253,7 @@ export const PRODUCTS: Product[] = [
     tagline: 'Narrow-chassis manual wire rope winch for constrained backstage spaces',
     description:
       'Designed for venues with minimal lateral space, pilewind winches stack wire rope neatly in narrow drum bays. Provides secure manual hoisting for lightweight curtains, masking drapes, and banners with full load-holding safety brake integration.',
-    image: '/src/assets/images/winch_manual_theatrical_1790577892470.jpg',
+    image: '/images/winch_manual_theatrical_1790577892470.jpg',
     capacity: 'Up to 300 kg',
     capacityNewtons: '3,000 N (ELL)',
     lines: '1 to 4 lines',
@@ -284,7 +284,7 @@ export const PRODUCTS: Product[] = [
     tagline: 'Coordinated multi-winch automation cabinet with 25+ years electronics heritage',
     description:
       'Developed with METALHOOD’s specialized European electronics engineering partner boasting over 25 years of stage automation experience. Allows synchronized or individual operation of multiple electrical lifting winches with dual-channel Emergency Power Off (EPO), phase monitoring, and group interlocking.',
-    image: '/src/assets/images/stage_control_system_1790577905027.jpg',
+    image: '/images/stage_control_system_1790577905027.jpg',
     brakeSystem: 'Coordinated brake monitoring with microswitch feedback',
     controlInterface: 'Keyed master panel + remote handheld interface',
     standard: 'EN 17206 / IEC 60204-1 / 2006/42/EC',
@@ -316,7 +316,7 @@ export const PRODUCTS: Product[] = [
     tagline: 'Heavy-duty handheld pendants with dual-speed control and mushroom EPO',
     description:
       'Rugged industrial handheld controllers engineered for stage technicians. Available in wired cable-reel versions and industrial wireless frequency-hopping radio remote versions. Features tactile dual-pressure buttons for creep and nominal travel speeds.',
-    image: '/src/assets/images/stage_control_system_1790577905027.jpg',
+    image: '/images/stage_control_system_1790577905027.jpg',
     controlInterface: 'Wired pendant or 868 MHz / 2.4 GHz wireless RF link',
     standard: 'IP65 ruggedized casing / EN 17206',
     isFeatured: false,
@@ -344,7 +344,7 @@ export const PRODUCTS: Product[] = [
     tagline: 'Tested and certified stage divert sheaves for smooth cable transmission',
     description:
       'Tested and certified in cooperation with the Investment and Development Agency of Latvia (LIAA) technology transfer program. Sheaves are CNC machined from high-tensile steel or low-friction cast polyamide with deep-groove sealed ball bearings for quiet, wear-free cable passage.',
-    image: '/src/assets/images/hero_stage_lifting_machinery_1790577867656.jpg',
+    image: '/images/hero_stage_lifting_machinery_1790577867656.jpg',
     standard: 'Tested to European Directives & Standards via LIAA project',
     isFeatured: false,
     keyFeatures: [
@@ -371,7 +371,7 @@ export const PRODUCTS: Product[] = [
     tagline: 'Engineered structural steel assemblies for I-beam and gridiron clamping',
     description:
       'Fabricated from certified European structural steel in METALHOOD’s own workshop. Designed for secure, vibration-resistant attachment to standard European HEA/HEB/IPE beams without on-site welding or drilling of building framework.',
-    image: '/src/assets/images/cnc_manufacturing_facility_1790577916831.jpg',
+    image: '/images/cnc_manufacturing_facility_1790577916831.jpg',
     standard: 'Eurocode 3 structural steel design compliance',
     isFeatured: false,
     keyFeatures: [

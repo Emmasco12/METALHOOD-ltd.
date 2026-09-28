@@ -47,7 +47,7 @@ export const ServicesPage: React.FC<ServicesPageProps> = ({ onQuote }) => {
         <div className="grid grid-cols-1 lg:grid-cols-12">
           <div className="lg:col-span-7 aspect-[16/10] bg-neutral-950">
             <img
-              src="/src/assets/images/cnc_manufacturing_facility_1790577916831.jpg"
+              src="/images/cnc_manufacturing_facility_1790577916831.jpg"
               alt="METALHOOD CNC Lathe and Milling Workshop"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover"
